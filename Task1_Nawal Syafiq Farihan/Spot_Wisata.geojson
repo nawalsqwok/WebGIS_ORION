@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "Spot_Wisata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 2, "Nama_Spot": "Camping Ground Tebing Keraton", "Longitude": 107.66374, "Latitude": -6.83488 }, "geometry": { "type": "Point", "coordinates": [ 794418.972815084271133, 9243689.907318338751793 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Nama_Spot": "Bukit Moko (Puncak Bintang)", "Longitude": 107.67674, "Latitude": -6.84233 }, "geometry": { "type": "Point", "coordinates": [ 795852.394339712685905, 9242857.501867728307843 ] } },
+{ "type": "Feature", "properties": { "Id": 7, "Nama_Spot": "Glamping Tahura Djuanda", "Longitude": 107.63529, "Latitude": -6.85582 }, "geometry": { "type": "Point", "coordinates": [ 791259.321043284144253, 9241389.237381668761373 ] } },
+{ "type": "Feature", "properties": { "Id": 8, "Nama_Spot": "Situ Cileunca", "Longitude": 107.54026, "Latitude": -7.19333 }, "geometry": { "type": "Point", "coordinates": [ 780546.43874502228573, 9204099.622652793303132 ] } },
+{ "type": "Feature", "properties": { "Id": 9, "Nama_Spot": "Sunrise Point Cukul", "Longitude": 107.53426, "Latitude": -7.23368 }, "geometry": { "type": "Point", "coordinates": [ 779858.863268325570971, 9199639.146188730373979 ] } },
+{ "type": "Feature", "properties": { "Id": 10, "Nama_Spot": "Sunan Ibu Sunrise Point (Kawah Putih)", "Longitude": 107.40065, "Latitude": -7.16811 }, "geometry": { "type": "Point", "coordinates": [ 765133.829171535442583, 9206973.538926638662815 ] } },
+{ "type": "Feature", "properties": { "Id": 11, "Nama_Spot": "Gunung Nini", "Longitude": 107.56803, "Latitude": -7.22139 }, "geometry": { "type": "Point", "coordinates": [ 783598.73871446121484, 9200977.958732532337308 ] } },
+{ "type": "Feature", "properties": { "Id": 12, "Nama_Spot": "Wayang Windu", "Longitude": 107.62716, "Latitude": -7.20733 }, "geometry": { "type": "Point", "coordinates": [ 790141.824009694391862, 9202495.90175155736506 ] } },
+{ "type": "Feature", "properties": { "Id": 13, "Nama_Spot": "Glamping Lakeside (Situ Patenggang)", "Longitude": 107.35408, "Latitude": -7.16705 }, "geometry": { "type": "Point", "coordinates": [ 759988.167397716082633, 9207117.088863398879766 ] } },
+{ "type": "Feature", "properties": { "Id": 14, "Nama_Spot": "Ecopark Curugtilu", "Longitude": 107.37578, "Latitude": -7.1499 }, "geometry": { "type": "Point", "coordinates": [ 762396.382010647794232, 9209002.439917303621769 ] } },
+{ "type": "Feature", "properties": { "Id": 16, "Nama_Spot": "Bumi Perkemahan Rancaupas", "Longitude": 107.39399, "Latitude": -7.13671 }, "geometry": { "type": "Point", "coordinates": [ 764415.659361767116934, 9210451.283478870987892 ] } },
+{ "type": "Feature", "properties": { "Id": 17, "Nama_Spot": "Taman Langit Pangalengan", "Longitude": 107.52648, "Latitude": -7.23141 }, "geometry": { "type": "Point", "coordinates": [ 779000.629697040771134, 9199894.446868844330311 ] } },
+{ "type": "Feature", "properties": { "Id": 18, "Nama_Spot": "Gunung Manglayang", "Longitude": 107.74361, "Latitude": -6.87611 }, "geometry": { "type": "Point", "coordinates": [ 803227.22238152124919, 9239076.893938828259706 ] } },
+{ "type": "Feature", "properties": { "Id": 22, "Nama_Spot": "Gunung Puntang", "Longitude": 107.62111, "Latitude": -7.12139 }, "geometry": { "type": "Point", "coordinates": [ 789527.512383707799017, 9212010.540226835757494 ] } },
+{ "type": "Feature", "properties": { "Id": 23, "Nama_Spot": "Gunung Malabar", "Longitude": 107.63806, "Latitude": -7.12972 }, "geometry": { "type": "Point", "coordinates": [ 791395.215807286091149, 9211077.700005762279034 ] } },
+{ "type": "Feature", "properties": { "Id": 25, "Nama_Spot": "Legok Kondang Lodge", "Longitude": 107.4178, "Latitude": -7.11728 }, "geometry": { "type": "Point", "coordinates": [ 767058.740807245019823, 9212588.085015639662743 ] } },
+{ "type": "Feature", "properties": { "Id": 28, "Nama_Spot": "Hutan Pinus Pakawa", "Longitude": 107.64, "Latitude": -7.21139 }, "geometry": { "type": "Point", "coordinates": [ 791558.123706968966872, 9202039.078479094430804 ] } },
+{ "type": "Feature", "properties": { "Id": 29, "Nama_Spot": "Pineus Tilu Camping Ground", "Longitude": 107.54499, "Latitude": -7.18197 }, "geometry": { "type": "Point", "coordinates": [ 781076.162371800746769, 9205354.573755918070674 ] } },
+{ "type": "Feature", "properties": { "Id": 30, "Nama_Spot": "Bobocabin Pangalengan", "Longitude": 107.52744, "Latitude": -7.17233 }, "geometry": { "type": "Point", "coordinates": [ 779142.536144871031865, 9206431.792763605713844 ] } },
+{ "type": "Feature", "properties": { "Id": 31, "Nama_Spot": "Gunung Tilu Private Camp Pangalengan", "Longitude": 107.55244, "Latitude": -7.1521 }, "geometry": { "type": "Point", "coordinates": [ 781918.781106955138966, 9208654.87977465800941 ] } },
+{ "type": "Feature", "properties": { "Id": 32, "Nama_Spot": "Camping Ground Cangkuang", "Longitude": 107.50476, "Latitude": -7.13212 }, "geometry": { "type": "Point", "coordinates": [ 776661.184779307805002, 9210894.547973966225982 ] } },
+{ "type": "Feature", "properties": { "Id": 33, "Nama_Spot": "Djamuju Coffee and Camp", "Longitude": 107.33871, "Latitude": -7.12012 }, "geometry": { "type": "Point", "coordinates": [ 758316.529256631969474, 9212318.721793115139008 ] } }
+]
+}
