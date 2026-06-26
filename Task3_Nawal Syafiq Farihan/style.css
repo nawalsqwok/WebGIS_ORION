@@ -62,13 +62,14 @@
     }
 
     .deskripsi{
-        font-family: "Quantico", sans-serif;
-        font-weight: 500;
+        font-family: "Wire One", sans-serif;
+        font-weight: 400;
         font-style: normal;
-        font-size: 15px ;
+        font-size: 20px ;
+        letter-spacing: 2.8px;
         border-left: 1px solid;
         padding-left: 10px;
-        line-height: 50px;
+        line-height: 45px;
     }
 
     .logo-section {
